@@ -1,6 +1,7 @@
 1,Victor Ntigura Uwahoro,A
 2,Regine Ingabire,B
-3,Olga Chancelline Akayo,A
+3,Olga Mahirwe,A
 4,Elga Charlie Arakoze,B
 5,Elsie Victoria AKuzwe,A
 6,Baho Bailey Briar,A
+7,Charles Hirwa,C
